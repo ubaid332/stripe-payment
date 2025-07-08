@@ -16,7 +16,7 @@ This is a simple Laravel web application that integrates **Stripe Payment Gatewa
 ## 📸 Demo
 
 ![Stripe Laravel Payment Demo](demo.gif) <!-- Optional: Add GIF/screenshot here -->
-
+http://127.0.0.1:8000/pay
 ---
 
 ## 📦 Tech Stack
